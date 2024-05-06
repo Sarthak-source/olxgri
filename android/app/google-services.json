@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "171740830694",
+    "project_id": "agro-bs",
+    "storage_bucket": "agro-bs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171740830694:android:c3b1b478139baa37e05427",
+        "android_client_info": {
+          "package_name": "com.agrobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171740830694-nc36pdqk9v8np5gm9j65quj0mkrtg551.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agrobs",
+            "certificate_hash": "48ce24c4d5a636764f2b66853383557d8af94ede"
+          }
+        },
+        {
+          "client_id": "171740830694-vclhkoonellen6hnjuqlfmf2c02anumm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agrobs",
+            "certificate_hash": "069bfda3081a3d123f428dae85a0d0efa0ccbb8b"
+          }
+        },
+        {
+          "client_id": "171740830694-ko5vl6gt368esqg2jn2lakgccnhi7m77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmgEuNbogQZRE1GgO9EDApsRwuRfSv_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171740830694-ko5vl6gt368esqg2jn2lakgccnhi7m77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
